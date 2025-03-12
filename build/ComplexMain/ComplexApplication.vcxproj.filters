@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Misha\Desktop\le\proga\LabWork2Sem2\LabWork2Sem2\ComplexMain\Complex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Misha\Desktop\le\proga\LabWork2Sem2\LabWork2Sem2\ComplexMain\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CB0076F1-3AF7-3F1C-8C33-3CA1A6B41D55}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
